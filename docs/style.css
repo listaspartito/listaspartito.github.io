@@ -8,7 +8,7 @@ html {
     font-size: 14vw;
     text-align: center;
     color: aliceblue;
-    background-image: url('C:/Users/Studio54/OneDrive/Desktop/asjdas,/EDOARDO/SFONDO.jpg');
+    background-image: url('./SFONDO.jpg');
     background-size: 100% 100%;
     background-repeat: no-repeat;
     padding: 1em;
@@ -116,3 +116,4 @@ a {
     }
     
 }
+
